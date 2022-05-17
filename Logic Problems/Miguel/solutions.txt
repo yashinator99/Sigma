@@ -37,3 +37,58 @@ Blake - Cooking
 Rose - Rock Climbing
 Oliver - Kayaking
 Abigail - Zip-line
+
+## The Good Life
+
+Pepper is either playing catch or burying a chew toy.
+1. playing catch
+2. burying toy
+
+Neither Ginger nor Saber nor Bear is on a walk, so they can be
+1. ears scratched
+2. playing catch
+3. napping
+4. burying toy
+
+Since one of the dogs named after a spice is getting its ears scratched, the following dogs could be doing this
+1. Pepper
+2. Ginger
+3. Nutmeg
+
+A dog not named for a spice is playing catch. So the dogs playing catch are either
+1. Saber
+2. Bear
+
+Bear is getting some exercise therefore bear could be
+1. playing catch
+2. burying a chew toy
+3. going for a walk
+
+Based on the first statement and the 4th statement, we now know that pepper can't be playing catch therefore pepper must be burying a toy.
+Pepper - Burying Toy
+
+Based on statement 2 and our previous conclusion, the only dog that can be walking is Nutmeg.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+
+Looking at statement 3 we can conclude that ginger must be getting it's ears scratched since pepper and nutmeg are doing other activities.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+Ginger - Ears Scratched
+
+Using statement 5 we can deduce that bear must be playing catch since the other 2 activities are being done by other dogs.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+Ginger - Ears Scratched
+Bear - Playing Catch
+
+Finally, Saber is the only one left so they must be napping.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+Ginger - Ears Scratched
+Bear - Playing Catch
+Saber - Napping
