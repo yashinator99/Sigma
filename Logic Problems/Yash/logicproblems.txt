@@ -20,7 +20,7 @@ for ( people ) {
 
 
 Since abigial dosnt like rock climbing it will be all: Cook, Kayak, Zip line
-since oliver is afraid of heightszip lines and  rock climbing since they are up high and it will be cook and kayak
+since oliver is afraid of heights zip lines and  rock climbing since they are up high and it will be cook and kayak
 since rosa cant do activities without a harness zipline and rock climbing has harnesses
 since Blake  likes to keep his feet on the ground we can consider rock climbing as ground and cooking as standing on the ground, and since zipline is in the air and kayak in the boat in the water
 Abigail - Cook, Kayak, Zip line
@@ -129,3 +129,25 @@ F A
 
 Answer:
 i don't know not where Charlie lives. cause of I dont know
+
+Hard
+1) Pass the Salt, Please
+A. This is salt
+B. This is salt
+C. This is Sugar
+D. The salt in not in B
+So B and C are sugar told to us
+and A is confirm to be salt so D is sugar
+
+Answer
+A is the only one that is salt.
+All three babies are boys.
+
+2) New Parents
+Process:
+Their names are six letters long and anagrams of one another.
+so same letter in the words
+Their names include both of their parents’ initials, but none of the other letters in their parents’ first names.
+RL but no u b y e w i s
+
+Arnold, Roland and Ronald
