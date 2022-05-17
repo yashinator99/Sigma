@@ -144,3 +144,50 @@ Alberto - Elias
 Ken     - Stephanie
 
 ## Pass the Salt, Please
+
+The salt shakers are labelled as such
+
+A. This is salt
+B. This is salt
+C. This is sugar
+D. The salt is not in Based
+
+3 have sugar and 1 has salt.
+
+First I'm going to assume A is True and the rest are False and see if any false statements arise.
+
+If A is true then
+A. Is Salt
+B. Is sugar
+C. Is Salt
+
+We have reached our first problem. More than 1 shaker has salt so A can't be true.
+
+Secondly, let's assume B is True and the rest are False.
+
+If B is true then
+A. Is sugar
+B. Is salt
+C. Is salt
+
+Again we reached the same issues as when we assumed A to be True. So B can't be true.
+
+Next, let's assume C is True and the rest are False.
+
+A. Is sugar
+B. Is sugar
+C. Is salt
+D. Since it's false then the salt should be in B but this leads to a contradiction.
+
+Therefore C can't be true.
+
+Finally, let's confirm that D is True and the rest are False
+
+A. Is sugar
+B. Is sugar
+C. Is salt
+D. Is sugar
+
+D being true and the rest being false doesn't lead to any false statements or contradictions so therefore C is the salt shaker.
+
+C - Salt Shaker
