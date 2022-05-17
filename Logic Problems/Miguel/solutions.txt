@@ -112,3 +112,35 @@ Now we should be able to order from tallest to shortest
 Zina > Weldon > Delia > Leisha > Benito > Charlotte
 
 ## Dads and Grads
+
+Since stephanie went to the senior prom with Michael's son we can deduce 3 things
+1. Stephanie is not a Dad since stephanie is female
+2. Michael is a Dad
+2. Michael is not Stephanie's Dad
+
+Elias and James played on the school's baseball team. One of them is Alberto's son. From these statements we can infer 2 key things.
+1. Elias and James are graduates.
+2. Alberto is a Dad.
+
+Michael and Elias are not related leads us to the conclusion
+1. Michael is not Elias' Dad
+
+Based on the fact that Michael is not the Dad of either Stephanie or Elias, then Michael is James' Dad.
+
+Dad       Graduate
+Michael - James
+
+Since, Alberto is the dad of either Elias or James but Michael is James' Dad, then Alberto must be Elias' Dad
+
+Dad       Graduate
+Michael - James
+Alberto - Elias
+
+Finally, there is only 1 Dad and 1 Graduate unassigned so Ken is Stephanie's Dad
+
+Dad       Graduate
+Michael - James
+Alberto - Elias
+Ken     - Stephanie
+
+## Pass the Salt, Please
