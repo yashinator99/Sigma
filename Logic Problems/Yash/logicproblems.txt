@@ -1,0 +1,84 @@
+Easy
+1) Summer Camp
+Process:
+
+People: Abigail, Oliver, Rosa, and Blake
+
+So assuming that
+cook, kayak, rock climb, and zip-line are in a dictionary or hashmap
+for example
+cook : ground
+rock climbing :ground, harness, heights
+kayak: water
+zipline: harness, heights
+
+so given that we go through a for loop
+
+for ( people ) {
+    checking the people requirements and comparing it
+}
+
+
+Since abigial dosnt like rock climbing it will be all: Cook, Kayak, Zip line
+since oliver is afraid of heightszip lines and  rock climbing since they are up high and it will be cook and kayak
+since rosa cant do activities without a harness zipline and rock climbing has harnesses
+since Blake  likes to keep his feet on the ground we can consider rock climbing as ground and cooking as standing on the ground, and since zipline is in the air and kayak in the boat in the water
+Abigail - Cook, Kayak, Zip line
+Oliver - Cook kayak
+Rosa - Rock climbing, zip lines
+Blake - rock climbing, cooking
+
+
+
+2)The Good Life
+Process:
+Pepper playing catch or burying a chew toy
+
+Ginger Saber and Bear is not walking
+nutmeg is going for a walk since Pepper is playing catch or burying a chew toy
+
+One of the dogs named after a spice is getting its ears scratched.
+so ginger is getting its ears scratched since Pepper and nutmeg are doing something.
+
+A dog not named for a spice is playing catch
+so saber or bear is playing catch
+
+Bear is getting some exercise.
+so bear is playing catch and saber is probably sleeping since bear is the one getting exercise and not name as a spice.
+
+
+Answer:
+Pepper playing catch or burying a chew toy
+Nutmeg is walking
+Ginger is getting its ears scratched
+Bear is playing catch
+Saber is probably sleeping
+
+3)The Long and the Short of It
+Process:
+people: Leisha, Benito, Delia, Charlotte, Weldon, and Zina
+
+Weldon is taller than Delia but shorter than Zina.
+
+Zina > Weldon > Delia
+
+Leisha is taller than Benito but shorter than Delia and Weldon.
+
+Zina > Weldon > Delia> Leisha > Benito
+
+Benito is not the shortest.
+
+Zina > Weldon > Delia> Leisha > Benito > Charlotte
+
+Answer:
+tallest to shortest
+Zina > Weldon > Delia> Leisha > Benito > Charlotte
+
+Medium:
+
+1) Dads and Grads
+Process:
+Answer:
+2) Party at Charlie's
+Process:
+Answer:
