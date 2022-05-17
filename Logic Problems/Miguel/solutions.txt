@@ -92,3 +92,23 @@ Nutmeg - Walking
 Ginger - Ears Scratched
 Bear - Playing Catch
 Saber - Napping
+
+## The Long and the Short of it
+
+Weldon is shorter than Delia but shorter than Zina therefore
+
+1. Delia < Weldon < Zina
+
+Leisha is taller than Benito but shorter than Delia and Weldon
+
+Benito < Leisha < Delia & Weldon
+
+Benito is not the shortest. Since is only 1 person left that can be shorter than Benito
+
+Charlotte < Benito
+
+Now we should be able to order from tallest to shortest
+
+Zina > Weldon > Delia > Leisha > Benito > Charlotte
+
+## Dads and Grads
