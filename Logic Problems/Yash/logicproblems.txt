@@ -78,7 +78,54 @@ Medium:
 
 1) Dads and Grads
 Process:
+People: Michael, Ken, James, Alberto, Elias, and Stephanie
+
+Stephanie went to the senior prom with Michael’s son.
+So Stephanie is a kid and Michael is  a Dad
+
+Elias and James played on the school’s baseball team. One of them is Alberto’s son.
+
+Elias and James are kids and Alberto is a Dad
+
+Michael and Elias are not related.
+make Elias Alberto's son and James Michael's kid
+and makes Ken the last Dad.
+
 Answer:
+Dads with there kids underneath
+Dads: Ken, Michael, Alberto
+Kids: Stephanie, James, Elias
+
 2) Party at Charlie's
+And this one is a good logic puzzle for adults. You’ve been invited to a party at Charlie’s house, but you’ve never been there.
+He has seven friends who live nearby. They’ve given you a map showing all of their houses and Charlie’s house, along with the following information:
 Process:
+Daniel: I can’t see Benita’s house, because Greta’s house is in the way.
+D G B
+
+
+
+Adam: I live directly (not diagonally) across the street from Daniel.
+D G B
+A
+
+Benita: Elena lives due west of me.
+E B
+  G
+  D
+  A
+
+Elena: I have to cross three streets to walk to Franco’s house.
+E B
+  G
+  D
+F A
+
+Hal: I live east of Benita.
+E B H
+  G
+  D
+F A
+
 Answer:
+i don't know not where Charlie lives. cause of I dont know
