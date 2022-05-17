@@ -1,0 +1,39 @@
+## Summer Camp
+
+Since abigail's favourite activy isn't rock climbing, then abigail's favourite activity can be
+1. cooking
+2. kayaking
+3. zip-line
+
+Oliver is afraid heights, therefore he doesn't like rock climbing or zip-line. His favourite activity can be
+1. cooking
+2. kayaking
+
+Rose can't do her favourite activiy without a harness means that her favourite activity can either be
+1. rock climbing
+2. zip-line
+
+Finally, blake likes to keep his feet on the ground at all times so their favourite activity isn't kayaking, rock climbing or zip-line.
+So their favourite activity must be
+
+1. Cooking
+
+Blake - Cooking
+
+Now of the remaining people only Rose has rock climbing as a possible favourite activity.
+
+Blake - Cooking
+Rose - Rock Climbing
+
+Looking at Oliver out of the only two possible options available we know that cooking is out of the question since that's blake's favourite activity therefore Oliver's favourite activity must be kayaking.
+
+Blake - Cooking
+Rose - Rock Climbing
+Oliver - Kayaking
+
+Now that we know everyone else's favourite activity, abigail's favourite activity must be zip-line.
+
+Blake - Cooking
+Rose - Rock Climbing
+Oliver - Kayaking
+Abigail - Zip-line
