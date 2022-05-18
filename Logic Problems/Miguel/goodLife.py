@@ -1,3 +1,6 @@
+
+from functions import deduceTask
+
 activities = {"scratched", "catch", "nap", "burying", "walk"}
 dogs = {"Saber", "Ginger", "Nutmeg", "Pepper", "Bear"}
 
@@ -20,14 +23,6 @@ Bear = Bear - {"scratched", "nap"}
 
 goodBoys = {"Pepper" : Pepper, "Ginger" : Ginger, "Saber" : Saber, "Bear" : Bear, "Nutmeg" : Nutmeg}
 
-doing = set() # this contains the activities that have been figured out
+solution = deduceTask(goodBoys.copy())
 
-while sum([len(goodBoys[dog]) for dog in goodBoys]) > len(goodBoys): # loop until each dog has exactly 1 activity currently being performed
-    for dog in goodBoys:
-        if len(goodBoys[dog]) == 1: # when a kid has exactly one favourite activity it will be add to favourite and continue loop
-            doing.update(goodBoys[dog])
-            continue
-        goodBoys[dog] = goodBoys[dog] - doing
-
-
-print(goodBoys)
+print(solution)
