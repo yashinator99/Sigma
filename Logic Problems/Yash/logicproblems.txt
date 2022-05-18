@@ -19,14 +19,28 @@ for ( people ) {
 }
 
 
-Since abigial dosnt like rock climbing it will be all: Cook, Kayak, Zip line
-since oliver is afraid of heights zip lines and  rock climbing since they are up high and it will be cook and kayak
-since rosa cant do activities without a harness zipline and rock climbing has harnesses
-since Blake  likes to keep his feet on the ground we can consider rock climbing as ground and cooking as standing on the ground, and since zipline is in the air and kayak in the boat in the water
-Abigail - Cook, Kayak, Zip line
-Oliver - Cook kayak
-Rosa - Rock climbing, zip lines
-Blake - rock climbing, cooking
+Since abigial dosnt like rock climbing:
+-cooking, Kayak, Zip line
+
+since oliver is afraid of heights:
+-zip lines and rock climbing are out since they are up high
+-it will be cook and kayak
+
+since rosa cant do activities without a harness:
+-since zipline and rock climbing has harnesses she can only do those.
+
+since Blake likes to keep his feet on the ground:
+-cooking is the only one that is on the ground
+
+Blake is cooking
+Oliver will be kayaking
+then Abigail will  be zipline and Rosa wil be rock climbing
+
+Answer:
+Abigail - Zip line
+Oliver - kayak
+Rosa - Rock climbing
+Blake - Cooking
 
 
 
@@ -45,10 +59,10 @@ so saber or bear is playing catch
 
 Bear is getting some exercise.
 so bear is playing catch and saber is probably sleeping since bear is the one getting exercise and not name as a spice.
-
+if bear is playing catch then pepper is burying a chew toy
 
 Answer:
-Pepper playing catch or burying a chew toy
+Pepper burying a chew toy
 Nutmeg is walking
 Ginger is getting its ears scratched
 Bear is playing catch
@@ -128,7 +142,7 @@ E B H
 F A
 
 Answer:
-i don't know not where Charlie lives. cause of I dont know
+i don't know not where Charlie lives since there wasnt enough information.
 
 Hard
 1) Pass the Salt, Please
@@ -141,12 +155,16 @@ and A is confirm to be salt so D is sugar
 
 Answer
 A is the only one that is salt.
-All three babies are boys.
+
 
 2) New Parents
 Process:
+
+All three babies are boys.
+
 Their names are six letters long and anagrams of one another.
 so same letter in the words
+
 Their names include both of their parents’ initials, but none of the other letters in their parents’ first names.
 RL but no u b y e w i s
 
