@@ -1,0 +1,171 @@
+Easy
+1) Summer Camp
+Process:
+
+People: Abigail, Oliver, Rosa, and Blake
+
+So assuming that
+cook, kayak, rock climb, and zip-line are in a dictionary or hashmap
+for example
+cook : ground
+rock climbing :ground, harness, heights
+kayak: water
+zipline: harness, heights
+
+so given that we go through a for loop
+
+for ( people ) {
+    checking the people requirements and comparing it
+}
+
+
+Since abigial dosnt like rock climbing:
+-cooking, Kayak, Zip line
+
+since oliver is afraid of heights:
+-zip lines and rock climbing are out since they are up high
+-it will be cook and kayak
+
+since rosa cant do activities without a harness:
+-since zipline and rock climbing has harnesses she can only do those.
+
+since Blake likes to keep his feet on the ground:
+-cooking is the only one that is on the ground
+
+Blake is cooking
+Oliver will be kayaking
+then Abigail will  be zipline and Rosa wil be rock climbing
+
+Answer:
+Abigail - Zip line
+Oliver - kayak
+Rosa - Rock climbing
+Blake - Cooking
+
+
+
+2)The Good Life
+Process:
+Pepper playing catch or burying a chew toy
+
+Ginger Saber and Bear is not walking
+nutmeg is going for a walk since Pepper is playing catch or burying a chew toy
+
+One of the dogs named after a spice is getting its ears scratched.
+so ginger is getting its ears scratched since Pepper and nutmeg are doing something.
+
+A dog not named for a spice is playing catch
+so saber or bear is playing catch
+
+Bear is getting some exercise.
+so bear is playing catch and saber is probably sleeping since bear is the one getting exercise and not name as a spice.
+if bear is playing catch then pepper is burying a chew toy
+
+Answer:
+Pepper burying a chew toy
+Nutmeg is walking
+Ginger is getting its ears scratched
+Bear is playing catch
+Saber is probably sleeping
+
+3)The Long and the Short of It
+Process:
+people: Leisha, Benito, Delia, Charlotte, Weldon, and Zina
+
+Weldon is taller than Delia but shorter than Zina.
+
+Zina > Weldon > Delia
+
+Leisha is taller than Benito but shorter than Delia and Weldon.
+
+Zina > Weldon > Delia> Leisha > Benito
+
+Benito is not the shortest.
+
+Zina > Weldon > Delia> Leisha > Benito > Charlotte
+
+Answer:
+tallest to shortest
+Zina > Weldon > Delia> Leisha > Benito > Charlotte
+
+Medium:
+
+1) Dads and Grads
+Process:
+People: Michael, Ken, James, Alberto, Elias, and Stephanie
+
+Stephanie went to the senior prom with Michael’s son.
+So Stephanie is a kid and Michael is  a Dad
+
+Elias and James played on the school’s baseball team. One of them is Alberto’s son.
+
+Elias and James are kids and Alberto is a Dad
+
+Michael and Elias are not related.
+make Elias Alberto's son and James Michael's kid
+and makes Ken the last Dad.
+
+Answer:
+Dads with there kids underneath
+Dads: Ken, Michael, Alberto
+Kids: Stephanie, James, Elias
+
+2) Party at Charlie's
+And this one is a good logic puzzle for adults. You’ve been invited to a party at Charlie’s house, but you’ve never been there.
+He has seven friends who live nearby. They’ve given you a map showing all of their houses and Charlie’s house, along with the following information:
+Process:
+Daniel: I can’t see Benita’s house, because Greta’s house is in the way.
+D G B
+
+
+
+Adam: I live directly (not diagonally) across the street from Daniel.
+D G B
+A
+
+Benita: Elena lives due west of me.
+E B
+  G
+  D
+  A
+
+Elena: I have to cross three streets to walk to Franco’s house.
+E B
+  G
+  D
+F A
+
+Hal: I live east of Benita.
+E B H
+  G
+  D
+F A
+
+Answer:
+i don't know not where Charlie lives since there wasnt enough information.
+
+Hard
+1) Pass the Salt, Please
+A. This is salt
+B. This is salt
+C. This is Sugar
+D. The salt in not in B
+So B and C are sugar told to us
+and A is confirm to be salt so D is sugar
+
+Answer
+A is the only one that is salt.
+
+
+2) New Parents
+Process:
+
+All three babies are boys.
+
+Their names are six letters long and anagrams of one another.
+so same letter in the words
+
+Their names include both of their parents’ initials, but none of the other letters in their parents’ first names.
+RL but no u b y e w i s
+
+Arnold, Roland and Ronald

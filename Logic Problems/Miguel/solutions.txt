@@ -1,0 +1,193 @@
+## Summer Camp
+
+Since abigail's favourite activy isn't rock climbing, then abigail's favourite activity can be
+1. cooking
+2. kayaking
+3. zip-line
+
+Oliver is afraid heights, therefore he doesn't like rock climbing or zip-line. His favourite activity can be
+1. cooking
+2. kayaking
+
+Rose can't do her favourite activiy without a harness means that her favourite activity can either be
+1. rock climbing
+2. zip-line
+
+Finally, blake likes to keep his feet on the ground at all times so their favourite activity isn't kayaking, rock climbing or zip-line.
+So their favourite activity must be
+
+1. Cooking
+
+Blake - Cooking
+
+Now of the remaining people only Rose has rock climbing as a possible favourite activity.
+
+Blake - Cooking
+Rose - Rock Climbing
+
+Looking at Oliver out of the only two possible options available we know that cooking is out of the question since that's blake's favourite activity therefore Oliver's favourite activity must be kayaking.
+
+Blake - Cooking
+Rose - Rock Climbing
+Oliver - Kayaking
+
+Now that we know everyone else's favourite activity, abigail's favourite activity must be zip-line.
+
+Blake - Cooking
+Rose - Rock Climbing
+Oliver - Kayaking
+Abigail - Zip-line
+
+## The Good Life
+
+Pepper is either playing catch or burying a chew toy.
+1. playing catch
+2. burying toy
+
+Neither Ginger nor Saber nor Bear is on a walk, so they can be
+1. ears scratched
+2. playing catch
+3. napping
+4. burying toy
+
+Since one of the dogs named after a spice is getting its ears scratched, the following dogs could be doing this
+1. Pepper
+2. Ginger
+3. Nutmeg
+
+A dog not named for a spice is playing catch. So the dogs playing catch are either
+1. Saber
+2. Bear
+
+Bear is getting some exercise therefore bear could be
+1. playing catch
+2. burying a chew toy
+3. going for a walk
+
+Based on the first statement and the 4th statement, we now know that pepper can't be playing catch therefore pepper must be burying a toy.
+Pepper - Burying Toy
+
+Based on statement 2 and our previous conclusion, the only dog that can be walking is Nutmeg.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+
+Looking at statement 3 we can conclude that ginger must be getting it's ears scratched since pepper and nutmeg are doing other activities.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+Ginger - Ears Scratched
+
+Using statement 5 we can deduce that bear must be playing catch since the other 2 activities are being done by other dogs.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+Ginger - Ears Scratched
+Bear - Playing Catch
+
+Finally, Saber is the only one left so they must be napping.
+
+Pepper - Burying Toy
+Nutmeg - Walking
+Ginger - Ears Scratched
+Bear - Playing Catch
+Saber - Napping
+
+## The Long and the Short of it
+
+Weldon is shorter than Delia but shorter than Zina therefore
+
+1. Delia < Weldon < Zina
+
+Leisha is taller than Benito but shorter than Delia and Weldon
+
+Benito < Leisha < Delia & Weldon
+
+Benito is not the shortest. Since is only 1 person left that can be shorter than Benito
+
+Charlotte < Benito
+
+Now we should be able to order from tallest to shortest
+
+Zina > Weldon > Delia > Leisha > Benito > Charlotte
+
+## Dads and Grads
+
+Since stephanie went to the senior prom with Michael's son we can deduce 3 things
+1. Stephanie is not a Dad since stephanie is female
+2. Michael is a Dad
+2. Michael is not Stephanie's Dad
+
+Elias and James played on the school's baseball team. One of them is Alberto's son. From these statements we can infer 2 key things.
+1. Elias and James are graduates.
+2. Alberto is a Dad.
+
+Michael and Elias are not related leads us to the conclusion
+1. Michael is not Elias' Dad
+
+Based on the fact that Michael is not the Dad of either Stephanie or Elias, then Michael is James' Dad.
+
+Dad       Graduate
+Michael - James
+
+Since, Alberto is the dad of either Elias or James but Michael is James' Dad, then Alberto must be Elias' Dad
+
+Dad       Graduate
+Michael - James
+Alberto - Elias
+
+Finally, there is only 1 Dad and 1 Graduate unassigned so Ken is Stephanie's Dad
+
+Dad       Graduate
+Michael - James
+Alberto - Elias
+Ken     - Stephanie
+
+## Pass the Salt, Please
+
+The salt shakers are labelled as such
+
+A. This is salt
+B. This is salt
+C. This is sugar
+D. The salt is not in Based
+
+3 have sugar and 1 has salt.
+
+First I'm going to assume A is True and the rest are False and see if any false statements arise.
+
+If A is true then
+A. Is Salt
+B. Is sugar
+C. Is Salt
+
+We have reached our first problem. More than 1 shaker has salt so A can't be true.
+
+Secondly, let's assume B is True and the rest are False.
+
+If B is true then
+A. Is sugar
+B. Is salt
+C. Is salt
+
+Again we reached the same issues as when we assumed A to be True. So B can't be true.
+
+Next, let's assume C is True and the rest are False.
+
+A. Is sugar
+B. Is sugar
+C. Is salt
+D. Since it's false then the salt should be in B but this leads to a contradiction.
+
+Therefore C can't be true.
+
+Finally, let's confirm that D is True and the rest are False
+
+A. Is sugar
+B. Is sugar
+C. Is salt
+D. Is sugar
+
+D being true and the rest being false doesn't lead to any false statements or contradictions so therefore C is the salt shaker.
+
+C - Salt Shaker
