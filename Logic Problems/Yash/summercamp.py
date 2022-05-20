@@ -23,7 +23,6 @@ for k in range(activities):
     for people in range(len(all)):
         count = 0
         idx = 0
-
         for j in range(len(all[people])):
             if(all[people][j] == 1):
                 count += 1
