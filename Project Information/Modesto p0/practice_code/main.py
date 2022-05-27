@@ -1,4 +1,4 @@
-from connection import get_connection
+from practice_code.connection import get_connection
 
 def main():
 
