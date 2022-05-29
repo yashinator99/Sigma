@@ -10,7 +10,7 @@ def delete_user(deletion_input):
         # create user
         user_id = fetch_delete_login(deletion_input)
         delete_user_information(user_id)
-        return render_template("index.html")
+        return render_template("thankyou.html")
 
     # user_id = prep_user_id(registration_input)
 
