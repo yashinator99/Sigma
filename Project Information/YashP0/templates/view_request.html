@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="UFT-8" />
+    <meta http-equiv="X_UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>View Request</title>
+  </head>
+  <body>
+    <table border="1">
+      <tr>
+        <th>Request Title</th>
+        <th>Request Description</th>
+      </tr>
+
+      {% for item in info %}
+      <tr>
+        <td>{{item[1]}}</td>
+        <td>{{item[2]}}</td>
+      </tr>
+      {% endfor %}
+    </table>
+  </body>
+</html>
