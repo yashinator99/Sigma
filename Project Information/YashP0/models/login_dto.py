@@ -8,7 +8,7 @@ class Login:
         return f"User Login : id - {self.user_id} username - {self.username} password - {self.password}"
 
     def validate_login(self) -> bool:
-        if len(self.username)  < 5 or len(self.password) < 5:
+        if len(self.username) < 5 or len(self.password) < 5:
             return False
         elif len(self.username) > 30 or len(self.password) > 30:
             return False
