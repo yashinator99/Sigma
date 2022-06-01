@@ -111,3 +111,45 @@ def delete_user(user_id):
     finally:
         if connection is not None:
             connection.close()
+
+def fetch_user(username, password):
+    connection = get_connection()
+    cursor = connection.cursor()
+
+    qry = f"SELECT * FROM user_table WHERE username = '{username}' AND password = '{password}';"
+
+    try:
+        cursor.execute(qry)
+        while True:
+            record = cursor.fetchone()
+            if record is None:
+                break
+            user_id = record[0]
+            return user_id
+
+    except(psycopg2.DatabaseError) as error:
+        print(error)
+    finally:
+        if connection is not None:
+            connection.close()
+
+def fetch_user_by_username(username):
+    connection = get_connection()
+    cursor = connection.cursor()
+
+    qry = f"SELECT * FROM user_table WHERE username = '{username}';"
+
+    try:
+        cursor.execute(qry)
+        while True:
+            record = cursor.fetchone()
+            if record is None:
+                break
+            user_id = record[0]
+            return user_id
+
+    except(psycopg2.DatabaseError) as error:
+        print(error)
+    finally:
+        if connection is not None:
+            connection.close()
