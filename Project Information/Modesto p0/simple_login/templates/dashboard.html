@@ -25,6 +25,78 @@
   <h1>Welcome back {{ username }}!</h1>
   <br>
   <h1>Your current balance is ${{ money }}!</h1>
+<hr>
+
+  <div class="row">
+    <div class="col-lg-4">
+      <form action="http://127.0.0.1:5000/dashboard/deposit" method="post">
+        <h1>Deposit</h1>
+        <hr>
+        <br>
+        <label for="username">Username</label>
+        <br>
+        <input type="text" name="username" id="username" placeholder="Enter Your Username">
+        <br>
+        <label for="password">Password</label>
+        <br>
+        <input type="password" name="password" id="password" placeholder="Enter Your Password">
+        <br>
+        <label for="deposit">Amount</label>
+        <br>
+        <input type="number" name="deposit" id="deposit" placeholder="input amount...">
+        <br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+    </div>
+    <div class="col-lg-4">
+      <form action="http://127.0.0.1:5000/dashboard/withdraw" method="post">
+        <h1>Withdraw</h1>
+        <hr>
+        <br>
+        <label for="username">Username</label>
+        <br>
+        <input type="text" name="username" id="username" placeholder="Enter Your Username">
+        <br>
+        <label for="password">Password</label>
+        <br>
+        <input type="password" name="password" id="password" placeholder="Enter Your Password">
+        <br>
+        <label for="withdraw">Amount</label>
+        <br>
+        <input type="number" name="withdraw" id="withdraw" placeholder="input amount...">
+        <br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+    </div>
+    <div class="col-lg-4">
+      <form action="http://127.0.0.1:5000/dashboard/send" method="post">
+        <h1>Send Money to another User</h1>
+        <hr>
+        <br>
+        <label for="username">Username</label>
+        <br>
+        <input type="text" name="username" id="username" placeholder="Enter Your Username">
+        <br>
+        <label for="password">Password</label>
+        <br>
+        <input type="password" name="password" id="password" placeholder="Enter Your Password">
+        <br>
+        <label for="recipient_username">Recipient Username</label>
+        <br>
+        <input type="text" name="recipient_username" id="recipient_username" placeholder="Enter Recipient Username">
+        <br>
+        <label for="send">Amount</label>
+        <br>
+        <input type="number" name="send" id="send" placeholder="input amount...">
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+    </div>
+  </div>
+
+  <hr>
   <a href="http://127.0.0.1:5000/deletion">
     <div>
       <button>Delete Account</button>

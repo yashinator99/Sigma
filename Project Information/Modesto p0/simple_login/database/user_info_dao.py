@@ -86,3 +86,63 @@ def delete_user_info(user_id):
     finally:
         if connection is not None:
             connection.close()
+
+def deposit_money(user_id, money):
+    connection = get_connection()
+    cursor = connection.cursor()
+
+    qry = f"UPDATE info_table SET money = money + '{money}' WHERE user_id = '{user_id}';"
+
+    try:
+        cursor.execute(qry)
+        connection.commit()
+        return
+
+        connection.commit()
+        return record
+    except(psycopg2.DatabaseError) as error:
+        print(error)
+        connection.rollback()
+    finally:
+        if connection is not None:
+            connection.close()
+
+def withdraw_money(user_id, money):
+    connection = get_connection()
+    cursor = connection.cursor()
+
+    qry = f"UPDATE info_table SET money = money - '{money}' WHERE user_id = '{user_id}';"
+
+    try:
+        cursor.execute(qry)
+        connection.commit()
+        return
+
+        connection.commit()
+        return record
+    except(psycopg2.DatabaseError) as error:
+        print(error)
+        connection.rollback()
+    finally:
+        if connection is not None:
+            connection.close()
+
+def send_money(user_id1, user_id2, money):
+    connection = get_connection()
+    cursor = connection.cursor()
+
+    qry = f"UPDATE info_table SET money = money - '{money}' WHERE user_id = '{user_id1}'; UPDATE info_table SET money = money + '{money}' WHERE user_id = '{user_id2}';"
+
+    try:
+        cursor.execute(qry)
+        connection.commit()
+        return
+
+        connection.commit()
+        return record
+    except(psycopg2.DatabaseError) as error:
+        print(error)
+        connection.rollback()
+    finally:
+        if connection is not None:
+            connection.close()
