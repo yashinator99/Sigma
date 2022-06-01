@@ -22,7 +22,7 @@ def create_login(input):
 
 def create_user_info(user_id, input):
     login_dto = select_user_by_id(user_id)
-    info_id = insert_user_info(login_dto, input.get("first_name"), input.get("last_name"))
+    info_id = insert_user_info(login_dto, input.get("first_name"), input.get("last_name"), 0)
 
     if info_id is not None:
         return info_id

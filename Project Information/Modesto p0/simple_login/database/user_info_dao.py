@@ -36,7 +36,7 @@ def select_by_user(login_dto: Login):
             record = cursor.fetchone()
             if record is None:
                 break
-            user_info = User(record[0], record[1], record[2], record[3])
+            user_info = User(record[0], record[1], record[2], record[3], record[4])
             return user_info
 
     except(psycopg2.DatabaseError) as error:
@@ -45,14 +45,14 @@ def select_by_user(login_dto: Login):
         if connection is not None:
             connection.close()
 
-def insert_user_info(login_dto: Login, first_name: str, last_name: str):
+def insert_user_info(login_dto: Login, first_name: str, last_name: str, money: int):
     connection = get_connection()
     cursor = connection.cursor()
 
-    qry = "INSERT INTO info_table VALUES (default, %s, %s, %s) RETURNING info_id;"
+    qry = "INSERT INTO info_table VALUES (default, %s, %s, %s, %s) RETURNING info_id;"
 
     try:
-        cursor.execute(qry, (login_dto.user_id, first_name, last_name))
+        cursor.execute(qry, (login_dto.user_id, first_name, last_name, money))
         id = cursor.fetchone()[0]
         connection.commit()
         return id
