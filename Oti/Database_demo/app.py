@@ -13,7 +13,7 @@ app.config['PERMANENT_SESSION_LIFETIME'] = timedelta(minutes=10)
 
 @app.route('/', methods=["GET"])
 def home_page():
-     return get_homepage()
+    return get_homepage()
 
 @app.route('/registration', methods=["GET"])
 def registration_page():

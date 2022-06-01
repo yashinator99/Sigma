@@ -2,9 +2,7 @@ import psycopg2
 from database.connection import get_connection
 from models.login_dto import Login
 
-# DAO = Data Access Object
-# I will all of my database interaction to this file
-
+# Database interaction
 # CRUD
 # CREATE a user login
 # READ a user login
