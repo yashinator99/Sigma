@@ -24,5 +24,5 @@ def valid_password(password):
         return True
     return False
 
-print(valid_username("A______0"))
-print(valid_password("jaf0A!long45145"))
+print(valid_username("asdfjkl"))
+print(valid_password("Qw1@awsd"))
