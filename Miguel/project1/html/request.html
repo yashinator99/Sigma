@@ -15,17 +15,23 @@
 
         <input type="number" id="amount" name="amount" placeholder="Amount" min="1" max="1000" step =".01" required="required"><br><br>
 
-        <input type="radio" id="travel" name="category" value="Travel" required="required">
-        <label for="travel">Travel</label><br>
+        
+        <fieldset>
+            <legend>Expense Type</legend>
+            <input type="radio" id="travel" name="category" value="Travel" required="required">
+            <label for="travel">Travel</label><br>
+    
+            <input type="radio" id="education" name="category" value="Education or Training" required="required">
+            <label for="education">Education or Training</label><br>
+    
+            <input type="radio" id="supplies" name="category" value="Supplies or Tools" required="required">
+            <label for="supplies">Supplies or Tools</label><br>
+    
+            <input type="radio" id="miscellaneous" name="category" value="Miscellaneous" required="required">
+            <label for="miscellaneous">Miscellaneous</label>
 
-        <input type="radio" id="education" name="category" value="Education or Training" required="required">
-        <label for="education">Education or Training</label><br>
+        </fieldset><br>
 
-        <input type="radio" id="supplies" name="category" value="Supplies or Tools" required="required">
-        <label for="supplies">Supplies or Tools</label><br>
-
-        <input type="radio" id="miscellaneous" name="category" value="Miscellaneous" required="required">
-        <label for="miscellaneous">Miscellaneous</label><br><br>
 
         <input type="submit" value="Submit">
         <!-- Confirm description and amount meet requirements.
